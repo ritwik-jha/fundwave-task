@@ -1,6 +1,5 @@
 #!/bin/bash
 
-current_version = $1
 
 echo "current version => $1"
 
